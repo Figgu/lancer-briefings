@@ -145,7 +145,7 @@ export default {
         "planet": "Cressidium",
         "year": "5014u",
         "system": "Cascadia",
-        "gate": "Cascade-Quanokrim",
+        "gate": "Cascade-Hood",
         "ring": "Cascade-Line",
         "headerTitle": "Solstice Rain",
         "headerSubtitle": "Echo Team",
