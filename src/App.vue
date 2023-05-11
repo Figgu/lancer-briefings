@@ -98,6 +98,11 @@ export default {
           "name": "Calm before the storm",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "The Drop",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
