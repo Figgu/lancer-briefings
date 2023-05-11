@@ -89,12 +89,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "002",
+          "slug": "000",
           "name": "Calm before the storm",
           "status": "start"
         },
