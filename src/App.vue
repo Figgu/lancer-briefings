@@ -15,14 +15,7 @@
             v-for="item in this.missions"
             :key="item.slug"
             :mission="item"
-            :selected="000"
-            @click="selectMission(item)"
-          />
-          <Mission
-            v-for="item in this.missions"
-            :key="item.slug"
-            :mission="The Drop"
-            :selected="001"
+            :selected="this.mission_slug"
             @click="selectMission(item)"
           />
         </div>
