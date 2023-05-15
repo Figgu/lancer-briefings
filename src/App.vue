@@ -96,7 +96,7 @@ export default {
         {
           "slug": "000",
           "name": "Calm before the storm",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "001",
