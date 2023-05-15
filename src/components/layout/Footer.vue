@@ -4,6 +4,7 @@
 			<p>
 				<strong>Lancer Briefings</strong> by
 				<a href="https://github.com/kuenaimaku">Kuenaimaku</a>. The <a href="https://github.com/Kuenaimaku/lancer-briefings">source code</a> is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.<br/>
+				<a>Edited by Figgu</a>
 			</p>
 		</div>
 	</footer>
