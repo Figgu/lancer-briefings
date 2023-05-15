@@ -154,7 +154,7 @@ export default {
         "ring": "Cascade-Line",
         "headerTitle": "Solstice Rain",
         "headerSubtitle": "Echo Team",
-        "subheaderTitle": "Crisis Response",
+        "subheaderTitle": "Lancer Response",
         "subheaderSubtitle": "Fox-Indigo-Geronimo",
       },
       "options":{
