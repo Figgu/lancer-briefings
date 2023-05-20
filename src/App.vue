@@ -108,7 +108,7 @@ export default {
         {
           "callsign": "Vader",
           "alias": "Tschenni",
-          "code": "Union Administrative RM-4 Pilot Identification Protocol (IDENT) Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
+          "code": "Union RM-4 Pilot Identification Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mechintosh"
@@ -116,7 +116,7 @@ export default {
         {
           "callsign": "Overwatch",
           "alias": "Julius Howard",
-          "code": "Union Administrative RM-4 Pilot Identification Protocol (IDENT) Record cf702f77-c719-43ee-9d9f-beaee7a0082b Howard.Julius:cf702f77-c719-43ee-9d9f-beaee7a0082b//NDL-C-THETA-ORBIT",
+          "code": "Union RM-4 Pilot Identification Record cf702f77-c719-43ee-9d9f-beaee7a0082b Howard.Julius:cf702f77-c719-43ee-9d9f-beaee7a0082b//NDL-C-THETA-ORBIT",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Let's Talk"
