@@ -108,18 +108,18 @@ export default {
         {
           "callsign": "Vader",
           "alias": "Tschenni",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "Union Administrative RM-4 Pilot Identification Protocol (IDENT) Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mechintosh"
         },
         {
-          "callsign": "PilotTwo",
-          "alias": "PilotTwoAlias",
+          "callsign": "Overwatch",
+          "alias": "Julius Howard",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "MechNamePilotTwo"
+          "mech": "Let's Talk"
         },
         {
           "callsign": "PilotThree",
