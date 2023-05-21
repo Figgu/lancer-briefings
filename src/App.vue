@@ -130,12 +130,12 @@ export default {
           "mech": "Clownusprot"
         },
         {
-          "callsign": "PilotFour",
-          "alias": "PilotFourAlias",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Cricket",
+          "alias": "Jiminy",
+          "code": "Union RM-4 Pilot Identification Record c5f8f5bc-0723-4065-8dde-d18c6d2d26b5 Jiminy:c5f8f5bc-0723-4065-8dde-d18c6d2d26b5//NDL-C-STOLEN-CAIRN",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "MechnamePilotFour"
+          "mech": "Eddi"
         },
         {
           "callsign": "PilotFive",
