@@ -126,7 +126,7 @@ export default {
           "alias": "Clowngenius",
           "code": "Union RM-4 Pilot Identification Record b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb Clowngenius:b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb//NDL-C-THETA-LASH",
           "corpro": "GMS",
-          "frame": "Everest",
+          "frame": "Sagarmatha",
           "mech": "Clownusprot"
         },
         {
