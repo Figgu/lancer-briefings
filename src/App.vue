@@ -122,12 +122,12 @@ export default {
           "mech": "Let's Talk"
         },
         {
-          "callsign": "PilotThree",
-          "alias": "PilotThreeAlias",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Clow",
+          "alias": "Clowngenius",
+          "code": "Union RM-4 Pilot Identification Record b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb Clowngenius:b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb//NDL-C-THETA-LASH",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "MechNamePilotThree"
+          "mech": "Clownusprot"
         },
         {
           "callsign": "PilotFour",
