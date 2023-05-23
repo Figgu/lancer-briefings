@@ -114,8 +114,8 @@ export default {
           "callsign": "Vader",
           "alias": "Tschenni",
           "code": "Union RM-4 Pilot Identification Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
-          "corpro": "GMS",
-          "frame": "Everest",
+          "corpro": "Harrison Armory",
+          "frame": "Tokugawa",
           "mech": "Mechintosh"
         },
         {
