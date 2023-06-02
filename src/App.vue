@@ -116,31 +116,31 @@ export default {
           "code": "Union RM-4 Pilot Identification Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
           "corpro": "Harrison Armory",
           "frame": "Tokugawa",
-          "mech": "Mechintosh"
+          "mech": "MechintoshV2"
         },
         {
-          "callsign": "Overwatch",
+          "callsign": "Crosshair",
           "alias": "Julius Howard",
           "code": "Union RM-4 Pilot Identification Record cf702f77-c719-43ee-9d9f-beaee7a0082b Howard.Julius:cf702f77-c719-43ee-9d9f-beaee7a0082b//NDL-C-THETA-ORBIT",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Let's Talk"
+          "corpro": "Horus",
+          "frame": "Pegasus",
+          "mech": "VOX MECHINA 3.0"
         },
         {
-          "callsign": "Clow",
-          "alias": "Clowngenius",
+          "callsign": "Otter",
+          "alias": "Rob",
           "code": "Union RM-4 Pilot Identification Record b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb Clowngenius:b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb//NDL-C-THETA-LASH",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Clownusprot"
+          "corpro": "IPS-Northstar",
+          "frame": "Zheng",
+          "mech": "Cheng"
         },
         {
           "callsign": "Cricket",
           "alias": "Jiminy",
           "code": "Union RM-4 Pilot Identification Record c5f8f5bc-0723-4065-8dde-d18c6d2d26b5 Jiminy:c5f8f5bc-0723-4065-8dde-d18c6d2d26b5//NDL-C-STOLEN-CAIRN",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Eddi"
+          "corpro": "IPS-Northstar",
+          "frame": "Raleigh",
+          "mech": "EDDII"
         },
         {
           "callsign": "PilotFive",
