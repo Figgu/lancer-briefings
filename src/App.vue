@@ -101,36 +101,36 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Placeholder",
-          "alias": "Placeholder",
+          "callsign": "PilotOne",
+          "alias": "PilotOneAlias",
           "code": "Union RM-4 Pilot Identification Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
           "corpro": "Harrison Armory",
           "frame": "Tokugawa",
-          "mech": "PlaceholderMech"
+          "mech": "MechNamePilotOne"
         },
         {
-          "callsign": "Placeholder",
-          "alias": "Placeholder",
+          "callsign": "PilotTwo",
+          "alias": "PilotTwoAlias",
           "code": "Union RM-4 Pilot Identification Record cf702f77-c719-43ee-9d9f-beaee7a0082b Howard.Julius:cf702f77-c719-43ee-9d9f-beaee7a0082b//NDL-C-THETA-ORBIT",
           "corpro": "Horus",
           "frame": "Pegasus",
-          "mech": "PlaceholderMech"
+          "mech": "MechNamePilotTwo"
         },
         {
-          "callsign": "Placeholder",
-          "alias": "Placeholder",
+          "callsign": "PilotThree",
+          "alias": "PilotThreeAlias",
           "code": "Union RM-4 Pilot Identification Record b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb Clowngenius:b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb//NDL-C-THETA-LASH",
           "corpro": "IPS-Northstar",
           "frame": "Zheng",
-          "mech": "PlaceholderMech"
+          "mech": "MechNamePilotThree"
         },
         {
-          "callsign": "Placeholder",
-          "alias": "Placeholder",
+          "callsign": "PilotFour",
+          "alias": "PilotFourAlias",
           "code": "Union RM-4 Pilot Identification Record c5f8f5bc-0723-4065-8dde-d18c6d2d26b5 Jiminy:c5f8f5bc-0723-4065-8dde-d18c6d2d26b5//NDL-C-STOLEN-CAIRN",
           "corpro": "IPS-Northstar",
           "frame": "Raleigh",
-          "mech": "PlaceholderMech"
+          "mech": "MechNamePilotFour"
         },
         {
           "callsign": "PilotFive",
@@ -147,8 +147,8 @@ export default {
         "system": "Cascadia",
         "gate": "Cascade-Hood",
         "ring": "Cascade-Line",
-        "headerTitle": "Operation Sentinel  Strike",
-        "headerSubtitle": "Sentinel Team",
+        "headerTitle": "Sentinel Strike",
+        "headerSubtitle": "Echo Team",
         "subheaderTitle": "Lancer Response",
         "subheaderSubtitle": "Fox-Indigo-Geronimo",
       },
