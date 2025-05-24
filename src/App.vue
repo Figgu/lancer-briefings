@@ -89,58 +89,48 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "000",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "000",
           "name": "Calm before the storm",
-          "status": "success"
-        },
-        {
-          "slug": "001",
-          "name": "The Drop",
-          "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Daybreak",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Vader",
-          "alias": "Tschenni",
+          "callsign": "Placeholder",
+          "alias": "Placeholder",
           "code": "Union RM-4 Pilot Identification Record e361a934-4c86-40d1-8624-48089606b371 Tschenni:e361a934-4c86-40d1-8624-48089606b371//NDL-C-SORROW-ROYAL",
           "corpro": "Harrison Armory",
           "frame": "Tokugawa",
-          "mech": "MechintoshV2"
+          "mech": "PlaceholderMech"
         },
         {
-          "callsign": "Crosshair",
-          "alias": "Julius Howard",
+          "callsign": "Placeholder",
+          "alias": "Placeholder",
           "code": "Union RM-4 Pilot Identification Record cf702f77-c719-43ee-9d9f-beaee7a0082b Howard.Julius:cf702f77-c719-43ee-9d9f-beaee7a0082b//NDL-C-THETA-ORBIT",
           "corpro": "Horus",
           "frame": "Pegasus",
-          "mech": "VOX MECHINA 3.0"
+          "mech": "PlaceholderMech"
         },
         {
-          "callsign": "Otter",
-          "alias": "Rob",
+          "callsign": "Placeholder",
+          "alias": "Placeholder",
           "code": "Union RM-4 Pilot Identification Record b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb Clowngenius:b9d64bcf-23ac-44a8-8fdb-1e046cb22cdb//NDL-C-THETA-LASH",
           "corpro": "IPS-Northstar",
           "frame": "Zheng",
-          "mech": "Cheng"
+          "mech": "PlaceholderMech"
         },
         {
-          "callsign": "Cricket",
-          "alias": "Jiminy",
+          "callsign": "Placeholder",
+          "alias": "Placeholder",
           "code": "Union RM-4 Pilot Identification Record c5f8f5bc-0723-4065-8dde-d18c6d2d26b5 Jiminy:c5f8f5bc-0723-4065-8dde-d18c6d2d26b5//NDL-C-STOLEN-CAIRN",
           "corpro": "IPS-Northstar",
           "frame": "Raleigh",
-          "mech": "EDDII"
+          "mech": "PlaceholderMech"
         },
         {
           "callsign": "PilotFive",
@@ -152,13 +142,13 @@ export default {
         },
       ],
       "header": {
-        "planet": "Cressidium",
+        "planet": "Taldris IV",
         "year": "5014u",
         "system": "Cascadia",
         "gate": "Cascade-Hood",
         "ring": "Cascade-Line",
-        "headerTitle": "Solstice Rain",
-        "headerSubtitle": "Echo Team",
+        "headerTitle": "Operation Sentinel  Strike",
+        "headerSubtitle": "Sentinel Team",
         "subheaderTitle": "Lancer Response",
         "subheaderSubtitle": "Fox-Indigo-Geronimo",
       },
